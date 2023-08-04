@@ -1,0 +1,26 @@
+[
+  {
+      "title": "Mona Lisa",
+      "artist": "Leonardo da Vinci",
+      "year": 1503,
+      "location": "Louvre Museum, Paris"
+  },
+  {
+      "title": "Starry Night",
+      "artist": "Vincent van Gogh",
+      "year": 1889,
+      "location": "Museum of Modern Art, New York"
+  },
+  {
+      "title": "The Persistence of Memory",
+      "artist": "Salvador Dali",
+      "year": 1931,
+      "location": "Museum of Modern Art, New York"
+  },
+  {
+      "title": "The Scream",
+      "artist": "Edvard Munch",
+      "year": 1893,
+      "location": "National Museum, Oslo"
+  }
+]
